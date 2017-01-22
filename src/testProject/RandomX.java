@@ -6,9 +6,9 @@ public class RandomX {
 
 	public static void main(String[] args) {
 
-		// (integer) numOfFloatingNum variable to represent how many floating
+		/** (integer) numOfFloatingNum variable to represent how many floating
 
-		// point random number user want to generate
+		point random number user want to generate**/
 
 		int numOfFloatingNum = 260;
 
